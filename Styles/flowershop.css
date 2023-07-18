@@ -130,3 +130,29 @@
     width: 88px;
     height: 88px;
 }
+
+.signup {
+    display: flex;
+    background: bisque;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 128px;
+    padding: 100px 200px;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+
+}
+
+.signup-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.signup-off {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 700;
+}
