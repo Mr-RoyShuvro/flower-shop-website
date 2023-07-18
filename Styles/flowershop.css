@@ -156,3 +156,11 @@
     font-size: 40px;
     font-weight: 700;
 }
+
+/* insta section  */
+
+.insta-all-photos{
+    display: flex;
+    margin: 48px 240px 0;
+    justify-content: space-around;
+}
