@@ -159,8 +159,36 @@
 
 /* insta section  */
 
-.insta-all-photos{
+.insta-all-photos {
     display: flex;
     margin: 48px 240px 0;
     justify-content: space-around;
 }
+
+/* Subscribe section  */
+
+.subscribe {
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background-image: url('../Flower_Asset/Rectangle\ 9.png');
+    margin: 128px 240px;
+}
+
+#input-email {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.subscribe-content{
+    padding-top: 60px;
+}
+.subscribe-form{
+    padding: 30px 270px;
+}
+
+/* .subscribe-form{
+    align-items: center;
+} */
