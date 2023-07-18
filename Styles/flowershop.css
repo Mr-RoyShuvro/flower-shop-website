@@ -1,5 +1,42 @@
 /* common shared styles */
-*{
+* {
     font-family: 'Lato', sans-serif;
-font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header style  */
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner-content {
+    padding: 197px 97px 167px 240px;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.banner-details {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+.banner{
+    display: flex;
+}
+.image{
+    padding: 50px 240px 0 0;
 }
