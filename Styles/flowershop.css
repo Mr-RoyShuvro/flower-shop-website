@@ -194,13 +194,45 @@
 }
 
 /* order section  */
+.order{
+    background: rgba(229, 84, 115, 0.10);
+    padding: 50px;
 
+}
 .marque{
     font-size: 40px;
     font-weight: 700;
-    color: sienna;
+    color: maroon;
+}
+.order-container{
+    display: flex;
+    justify-content: space-between;
 }
 
+#in{
+    height: 45px;
+    width: 600px;
+    margin-bottom: 20px;
+    border: none;
+    font-size: 23px;
+    padding-left: 20px;
+}
+#in-area{
+    border: none;
+    font-size: 23px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+.request{
+    font-size: 30px;
+    font-weight: 600;
+    color: #111010;
+}
+.contact-information{
+    text-align: center;
+    padding: 80px;
+    color: rgba(39, 39, 39, 0.60);
+}
 
 
 /* footer section  */
